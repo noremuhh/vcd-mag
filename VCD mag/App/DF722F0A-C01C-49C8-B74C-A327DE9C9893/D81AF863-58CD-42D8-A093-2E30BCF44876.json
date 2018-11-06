@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "A5D916AB-8110-41C5-A4DA-4750C650428D",
+  "_class": "symbolInstance",
+  "do_objectID": "D81AF863-58CD-42D8-A093-2E30BCF44876",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,31 +13,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 70,
+    "width": 48,
+    "x": 136,
+    "y": 179
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -276,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Logo",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Page 1",
-  "nameIsFixed": true,
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,10 +41,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -203,
-    "guides": [
-    ]
-  }
+  "symbolID": "55101128-D62B-4DEB-A89C-B297401A4AF1",
+  "verticalSpacing": 0
 }

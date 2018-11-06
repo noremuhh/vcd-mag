@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "1CD97AF7-AE99-4CA7-9867-0A645F8E4D8D",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DF722F0A-C01C-49C8-B74C-A327DE9C9893",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +20,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 427,
+    "width": 320,
+    "x": 211,
+    "y": -214
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -25,20 +33,34 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D81AF863-58CD-42D8-A093-2E30BCF44876"
+    }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Splash screen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -49,6 +71,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      428
     ]
   }
 }
