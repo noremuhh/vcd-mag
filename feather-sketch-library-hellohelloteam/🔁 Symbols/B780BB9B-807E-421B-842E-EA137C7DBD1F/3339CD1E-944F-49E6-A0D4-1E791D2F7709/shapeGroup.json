@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3339CD1E-944F-49E6-A0D4-1E791D2F7709",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23.9998130848564,
+    "width": 24.00114389342772,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3CE6AF83-B7DE-4586-BBF3-BB96E18FA38B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B11882BF-E5DF-4B67-A111-106BA4E9607A"
+    },
+    {
+      "class": "shapePath",
+      "id": "172F1241-DAD6-43CF-AAB6-F6D5C580710F"
+    },
+    {
+      "class": "shapePath",
+      "id": "84AA2520-B559-4641-88E1-2B282294E2EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AE033E1-5809-483F-A733-14B10273426E"
+    },
+    {
+      "class": "shapePath",
+      "id": "933A4607-3CD9-4CBA-8B87-24DC856E03F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B18E11B-6A42-4182-8289-199233A28DFB"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

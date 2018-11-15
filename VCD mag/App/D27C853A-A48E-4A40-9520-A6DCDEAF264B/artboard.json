@@ -32,10 +32,10 @@
     "_class": "simpleGrid",
     "gridSize": 8,
     "isEnabled": true,
-    "thickGridTimes": 10
+    "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,16 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "4F842F21-129C-4F38-BA2C-A3546C813435"
-    },
-    {
-      "class": "text",
-      "id": "5E43375E-9FA4-4B3C-B9BA-D14D351542A7"
-    },
-    {
-      "class": "text",
-      "id": "E4A153BF-543B-4513-89B0-5D29B448D4E0"
+      "class": "group",
+      "id": "452BEFD3-6743-4EAC-A474-202C1C0D9907"
     },
     {
       "class": "symbolInstance",
@@ -77,6 +69,21 @@
       "id": "FDB7BD4E-F8F0-4F4C-9C69-093A8AFF9E57"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 36,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
   "name": "HomeScreen",
   "nameIsFixed": true,
   "presetDictionary": {

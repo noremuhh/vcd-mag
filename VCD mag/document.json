@@ -911,7 +911,8 @@
     "version": 101
   },
   "pages": [
-    "App"
+    "App",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
